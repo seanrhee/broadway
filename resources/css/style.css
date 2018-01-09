@@ -1,0 +1,22 @@
+/*Change page font to Helvetica and align it to center*/
+body{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+/*Header section*/
+.header{
+  background-image: url('./resources/img/the-flatiron-building.png');
+  background-size: cover;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.navlink{
+  font-size: 18px;
+  color: white;
+}
