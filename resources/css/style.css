@@ -6,7 +6,7 @@ body{
 
 /*Header section*/
 .header{
-  background-image: url('resources/img/the-flatiron-building.png');
+  background-image: url('./resources/img/the-flatiron-building.png');
   background-size: cover;
 }
 
@@ -39,7 +39,7 @@ p{
 /*Footer section*/
 .footertitle{
   color: white;
-  background-image: url('resources/img/the-flatiron-building.png');
+  background-image: url('./resources/img/the-flatiron-building.png');
 }
 
 /*Footer Menu*/
