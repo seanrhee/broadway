@@ -35,3 +35,17 @@ h3{
 p{
   font-size: 14px;
 }
+
+/*Footer section*/
+.footertitle{
+  color: white;
+  background-image: url('file:///C:/Users/TheFeds/Desktop/projects/Broadway/resources/img/the-flatiron-building.png');
+}
+
+/*Footer Menu*/
+.footermenu{
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
